@@ -20,6 +20,12 @@
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jefteralex1&theme=midnight-purple&layout=compact&bg_color=000&border_color=8300ff&text_color=FFF)
 
+### 🔗 Soft Skills
+![Communicative](https://img.shields.io/badge/Communicative-red)
+![Proactive](https://img.shields.io/badge/Proactive-blue)
+![Organized](https://img.shields.io/badge/Organized-red)
+![Empathetic](https://img.shields.io/badge/Empathetic-blue)
+
 ## 📊 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jefteralex1&hide_title=true&border_color=8300ff&theme=midnight-purple&show_icons=true)
