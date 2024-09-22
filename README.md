@@ -24,9 +24,6 @@
 [<img src="https://images.credly.com/size/110x110/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" height="50"></a>](https://www.credly.com/badges/dd770403-b985-4b9a-ad14-711dce728c97/public_url)
 
 ---
-## 📊 GitHub Estatísticas
-[![trophy](https://github-profile-trophy.vercel.app/?username=jefteralex1&theme=onedark&no-frame=true&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
-
 
 ## 📚 Studying in this moment
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
