@@ -19,6 +19,8 @@
 [<img src="https://hermes.dio.me/tracks/077c7636-313d-4f1a-ba1c-c3aac542e86b.png" height="50"></a>](https://hermes.dio.me/certificates/6YOCUXZN.pdf)
 [<img src="https://hermes.dio.me/tracks/eac28003-aab4-4427-9e80-d750b44894c7.png" height="50"></a>](https://hermes.dio.me/certificates/954D1849.pdf)
 [<img src="https://hermes.dio.me/tracks/84b2d685-23f9-4729-9e3c-28cb84a39b38.png" height="50"></a>](https://hermes.dio.me/certificates/MTSTALFK.pdf)
+[<img src="https://learn.microsoft.com/en-us/training/achievements/beginner-python.svg" height="50"></a>](https://learn.microsoft.com/pt-br/users/jefter-7634/achievements?tab=tab-learning-paths)
+
 
 #### Certificações e Formações:
 [<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/116442435" height="50"></a>](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/116442435)
