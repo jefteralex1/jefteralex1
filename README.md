@@ -24,6 +24,7 @@
 
 #### Certificações e Formações:
 [<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/116442435" height="50"></a>](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/116442435)
+[<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/116453526" height="50"></a>](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/116453526)
 [<img src="https://images.credly.com/size/110x110/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" height="50"></a>](https://www.credly.com/badges/dd770403-b985-4b9a-ad14-711dce728c97/public_url)
 
 ---
