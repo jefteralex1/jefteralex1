@@ -12,11 +12,14 @@
 ## 🚀 Participações e Conquistas
 
 #### Bootcamps e Cursos:
+[<img src="https://assets.dio.me/QGBMU101QN38cA6c6M9ukxMZvjWMsUrEyHXYR7AAf2s/f:webp/h:120/q:80/L3RyYWNrcy9hNzM2ZWY0Mi0wZDJmLTQwNzktYWRiNC0yNWM1NWM4NWJhMmIucG5n" height="50"></a>](https://hermes.dio.me/certificates/1M97J2UT.pdf)
+[<img src="https://assets.dio.me/N3ET28fsUKPyJZb6mh6vdqhVziWjbk3xPNlE_velBWs/f:webp/h:120/q:80/L3RyYWNrcy85NzIyOTdkYy00MzU3LTRhZjQtYWJlYS04OWEzODg1M2E5NDkucG5n" height="50"></a>](https://hermes.dio.me/certificates/OICDC2GF.pdf)
 [<img src="https://hermes.dio.me/tracks/b092559f-ec20-4401-83e5-d98b6278b7b1.png" height="50"></a>](https://hermes.dio.me/certificates/4F5E4FAE.pdf)
 [<img src="https://hermes.dio.me/tracks/9388e8d8-00d5-4007-a7c9-357324fe73fa.png" height="50"></a>](https://hermes.dio.me/certificates/E8BF2575.pdf)
 [<img src="https://hermes.dio.me/tracks/12da0c17-5b91-4e81-b6e9-92e3ee3b83f6.png" height="50"></a>](https://hermes.dio.me/certificates/3238A153.pdf)
 [<img src="https://assets.dio.me/DSTU_-zep4rU4JceDp5Bsc62O7pD65ise53xYO9cJm4/f:webp/h:120/q:80/L3RyYWNrcy9lY2EwMjEzMS1lYjZiLTQ2ZWQtOWEyOC1mNmVlNTk3YWVhNTYucG5n" height="50"></a>](https://hermes.dio.me/certificates/5BF0136B.pdf)
 [<img src="https://hermes.dio.me/tracks/4d998d5c-36c1-497b-8da0-8db465c820eb.png" height="50"></a>](https://hermes.dio.me/certificates/NKEQBLYS.pdf)
+[<img src="https://assets.dio.me/VieXlrQh_9b4QCeGF60WVMWCkJsLjigXo5C_J4EWsEU/f:webp/h:120/q:80/L3RyYWNrcy9lMzA5MmMwOC05OGM0LTQxMzEtYWVjMS1mM2FmZmU2ZGI0NWQucG5n" height="50"></a>](https://hermes.dio.me/certificates/5BF0136B.pdf)
 [<img src="https://hermes.dio.me/tracks/077c7636-313d-4f1a-ba1c-c3aac542e86b.png" height="50"></a>](https://hermes.dio.me/certificates/6YOCUXZN.pdf)
 [<img src="https://hermes.dio.me/tracks/eac28003-aab4-4427-9e80-d750b44894c7.png" height="50"></a>](https://hermes.dio.me/certificates/954D1849.pdf)
 [<img src="https://hermes.dio.me/tracks/84b2d685-23f9-4729-9e3c-28cb84a39b38.png" height="50"></a>](https://hermes.dio.me/certificates/MTSTALFK.pdf)
