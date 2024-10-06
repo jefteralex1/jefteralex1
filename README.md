@@ -22,6 +22,7 @@
 [<img src="https://assets.dio.me/VieXlrQh_9b4QCeGF60WVMWCkJsLjigXo5C_J4EWsEU/f:webp/h:120/q:80/L3RyYWNrcy9lMzA5MmMwOC05OGM0LTQxMzEtYWVjMS1mM2FmZmU2ZGI0NWQucG5n" height="50"></a>](https://hermes.dio.me/certificates/5BF0136B.pdf)
 [<img src="https://hermes.dio.me/tracks/077c7636-313d-4f1a-ba1c-c3aac542e86b.png" height="50"></a>](https://hermes.dio.me/certificates/6YOCUXZN.pdf)
 [<img src="https://hermes.dio.me/tracks/eac28003-aab4-4427-9e80-d750b44894c7.png" height="50"></a>](https://hermes.dio.me/certificates/954D1849.pdf)
+[<img src="https://assets.dio.me/0JQqr8ZwT-UxlnECL_OiT33rG3DrDD_Lc1BCMsn_iso/f:webp/h:120/q:80/L3RyYWNrcy8zZjAzZTNmNS03Nzk1LTQ1NzktYTI1YS0wZTk1ODdlMGRmNzcucG5n" height="50"></a>](https://hermes.dio.me/certificates/AEFWCXA1.pdf)
 [<img src="https://hermes.dio.me/tracks/84b2d685-23f9-4729-9e3c-28cb84a39b38.png" height="50"></a>](https://hermes.dio.me/certificates/MTSTALFK.pdf)
 [<img src="https://assets.dio.me/XeSGwYIOI2Xvl-7_WTEcgvxCHX-BBwsBtkI5fY7ParU/f:webp/h:120/q:80/L3RyYWNrcy80ZGViNDBkZS03ZmI2LTQyMjktYTZhNS05NzE4NTM4MWQ1NzcucG5n" height="50"></a>](https://hermes.dio.me/certificates/5BF0136B.pdf)
 [<img src="https://assets.dio.me/JdBTHUCmNxrrJUiTJ2Xr3uCb3ERnBFWVbLU0kZlfxpY/f:webp/h:120/q:80/L3RyYWNrcy85NzdkMWI0MS01ODg4LTQ0ZDctOGU0Yy01N2QyMzQ4NzQ4ZGMucG5n" height="50"></a>](https://hermes.dio.me/certificates/0568C5DC.pdf)
